@@ -17,8 +17,8 @@ master_df2 = pd.DataFrame() # create a master df to store all the daily data
 master_df3 = pd.DataFrame()		
 
 # Iterate through year, month, and day
-for y in range(1997, 2018):
-	for m in range(1, 11):
+for y in range(1997, 1998):
+	for m in range(2, 4):
 		for d in range(1,32):
  		
 			# Check if leap year
@@ -33,13 +33,17 @@ for y in range(1997, 2018):
 
 			# Check if already gone through month
 			if (m == 2 and leap and d > 29):
+				print "its first"
+
 				continue
 			elif (m == 2 and d > 28):
+				print "its 2nd"
 				continue
 			elif (m in [4, 6, 9, 11] and d > 30):
+				print "its 3rd"
 				continue
 			Datestamp = str(y)+'-'+str(m)+'-'+str(d)
-			
+			print Datestamp
 
 			# Open wunderground.com url
 			url = "http://www.wunderground.com/history/airport/VHHH/"+str(y)+ "/" + str(m) + "/" + str(d) + "/DailyHistory.html"
@@ -96,5 +100,5 @@ for y in range(1997, 2018):
 				pass
 
 			
-df3.to_csv ('1997 Results.csv', encoding='utf-8-sig')
+df3.to_csv ('test.csv', encoding='utf-8-sig')
 				# mm_df.to_csv ('Results.csv', encoding='utf-8-sig')\

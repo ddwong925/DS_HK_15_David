@@ -43,11 +43,11 @@ for y in range(2000, 2001):
       # Get temperature from page
       soup = BeautifulSoup(page.text, "lxml")
 
-      HistoryTable = soup.find('table', id='obsTable')
+      HistoryTable = soup.find('table', id='historyTable')
 # spans = HistoryTable.find_all(attrs={'class':'no-metars'})
 
       col = []
-      for row in HistoryTable.findAll("th")
+      for row in HistoryTable.findAll("th"):
         col.append(row.text.strip())
 
       for row in HistoryTable.findAll("tr")[1::2]:
