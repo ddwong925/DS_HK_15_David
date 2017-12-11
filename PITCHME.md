@@ -1,6 +1,6 @@
 @title[Introduction]
 ## My first Data Science Project
-##### <span style="font-family:Helvetica Neue; font-weight:bold">From <span style="color:#e49436">nothing</span> to <span style="color:#e49436"> something</span></span>
+<span style="font-family:Helvetica Neue; font-weight:bold">From <span style="color:#e49436">nothing</span> to <span style="color:#e49436"> something</span></span>
 
 ---
 @title[My first DS project]
@@ -11,11 +11,19 @@
 @title[scope]
 ## Create a better model than the Hong Kong Observatory.
 
-<i class="fa fa-thermometer-quarter fa-5" aria-hidden="true"></i>
-
-
-
+<i class="fa fa-thermometer-quarter fa-5" aria-hidden="false"></i>
++++
+- Collect and scrape data
+- Clean them
 ---
+@title[Scraping]
+
+
+
+
+
+
+
 @title[Theme Switcher]
 
 ## Slideshow Theme Switcher
