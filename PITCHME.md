@@ -10,8 +10,8 @@
 +++
 @title[scope]
 ## Create a better model than the Hong Kong Observatory.
-<i class="fa fa-thermometer-half" aria-hidden="true"></i>
 
+<i class="fa fa-thermometer-quarter fa-5" aria-hidden="true"></i>
 
 
 
