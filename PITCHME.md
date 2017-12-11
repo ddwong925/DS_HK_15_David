@@ -4,7 +4,8 @@
 
 ---
 @title[My first DS project]
-## @fa[thumbs-up]
+## Scope:
+#####@fa[thumbs-up] Create a better model than the Hong Kong observatory.
 
 
 
