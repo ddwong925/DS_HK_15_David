@@ -10,13 +10,22 @@
 +++
 @title[scope]
 ## Create a better model than the Hong Kong Observatory.
-
+@fa[thermometer-three-quarters]
 <i class="fa fa-thermometer-quarter fa-5" aria-hidden="false"></i>
 +++
+#####Like most of us, TO-DO:
 - Collect and scrape data
 - Clean them
+- Parse data
+- Mine the data
+- Refine 
+- Build the model
+- Presenation
 ---
 @title[Scraping]
+###"beautifulsoup is easy to understand and build"
+Okay, I will build it with beautiful soup then 
+
 
 
 
