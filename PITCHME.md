@@ -10,7 +10,7 @@
 +++
 @title[scope]
 ## Create a better model than the Hong Kong Observatory.
-<i class="fa fa-camera-retro fa-3x"></i> fa-3x
+<i class="fa fa-thermometer-half fa-3x"></i>
 
 
 
