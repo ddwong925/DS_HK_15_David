@@ -10,10 +10,10 @@
 +++
 @title[scope]
 ## Create a better model than the Hong Kong Observatory.
-@fa[thermometer-three-quarters]
+@fa[thermometer-full]
 <i class="fa fa-thermometer-quarter fa-5" aria-hidden="false"></i>
 +++
-#####Like most of us, TO-DO:
+##### Like most of us, TO-DO:
 - Collect and scrape data
 - Clean them
 - Parse data
