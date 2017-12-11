@@ -1,6 +1,6 @@
 @title[Introduction]
-## The Kitchen Sink
-##### <span style="font-family:Helvetica Neue; font-weight:bold">A <span style="color:#e49436">Git</span>Pitch Feature Tour</span>
+## My first Data Science Project
+##### <span style="font-family:Helvetica Neue; font-weight:bold">From <span style="color:#e49436">nothing</span> to <span style="color:#e49436"> something</span></span>
 
 ---
 @title[Theme Switcher]
