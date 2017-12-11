@@ -6,8 +6,11 @@
 @title[My first DS project]
 ## Scope:
 
-##### @fa[thermometer-quarter] Think BIG and 
-##### @fa[thermometer-quarter] Create a better model than the Hong Kong Observatory.
+##### @fa[thumbs-up] Think BIG and ...
++++
+@title[scope]
+## Create a better model than the Hong Kong Observatory.
+<i class="fa fa-camera-retro fa-3x"></i> fa-3x
 
 
 
