@@ -7,13 +7,11 @@
 ## Scope:
 
 ##### @fa[thumbs-up] Think BIG and ...
+
 +++
 @title[scope]
 ## Create a better model than the Hong Kong Observatory.
-<br>
 
-@fa[thermometer-full]
-<i class="fa fa-thermometer-quarter fa-5" aria-hidden="false"></i>
 +++
 ##### Like most of us, TO-DO:
 - Collect and scrape data
@@ -23,24 +21,21 @@
 - Refine 
 - Build the model
 - Presenation
+
 ---
 @title[Scraping]
+##I heard
 ###"beautifulsoup is easy to understand and build"
+- Okay, I will build it with beautiful soup then 
+
++++
+@title[beautiful soup]
 Okay, I will build it with beautiful soup then 
-
-
-
-
-
-
-
-
-@title[Theme Switcher]
-
 ## Slideshow Theme Switcher
 <span style="font-size:0.6em; color:gray">Available inside burger-menu.</span> |
 <span style="font-size:0.6em; color:gray">Start switching themes right now!</span>
 
+@title[wunderground]
 ---
 @title[Go Fullscreen]
 
