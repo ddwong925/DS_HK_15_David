@@ -25,18 +25,16 @@
 ---
 @title[wunderground]
 ## I heard
-### "beautifulsoup is easy to understand and build" |
+### "beautifulsoup is easy to understand and build"
 
 +++
 @title[beautiful soup]
 Okay, I will build it with beautiful soup then 
-## Slideshow Theme Switcher
-<span style="font-size:0.6em; color:gray">Available inside burger-menu.</span> |
-<span style="font-size:0.6em; color:gray">Start switching themes right now!</span>
+
 
 +++
 @title[wunderground]
-+++?image=img0.png
++++?image=assets/WU.png
 <!-- .slide: data-background-transition="none" -->
 ---
 @title[Go Fullscreen]
