@@ -15,12 +15,12 @@
 +++
 ##### Like most of us, TO-DO:
 - Collect and scrape data
-- Clean them
-- Parse data
-- Mine the data
-- Refine 
-- Build the model
-- Presenation
+- Clean them |
+- Parse data |
+- Mine the data |
+- Refine |
+- Build the model |
+- Presenation |
 
 ---
 @title[Scraping]
