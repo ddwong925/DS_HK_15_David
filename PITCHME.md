@@ -24,9 +24,9 @@
 
 ---
 @title[Scraping]
-##I heard
-###"beautifulsoup is easy to understand and build"
-- Okay, I will build it with beautiful soup then 
+## I heard
+### "beautifulsoup is easy to understand and build"
+- Okay, I shall build it with beautiful soup then 
 
 +++
 @title[beautiful soup]
