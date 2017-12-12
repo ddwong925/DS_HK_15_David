@@ -36,7 +36,7 @@ Okay, I will build it with beautiful soup then
 
 +++
 @title[wunderground]
-?image=img0.png
++++?image=img0.png
 <!-- .slide: data-background-transition="none" -->
 ---
 @title[Go Fullscreen]
